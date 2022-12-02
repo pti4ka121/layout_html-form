@@ -1,1 +1,12 @@
-/* styles go here */
+.form-field {
+  display: block;
+  margin-top: 10px;
+}
+
+fieldset {
+  margin-top: 20px;
+}
+
+.submit_buttom {
+  margin-top: 20px;
+}
