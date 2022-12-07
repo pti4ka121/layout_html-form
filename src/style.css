@@ -1,12 +1,9 @@
 .form-field {
   display: block;
-  margin-top: 10px;
+  margin-bottom: 10px;
 }
 
 .field-blocks {
+  display: block;
   margin-bottom: 20px;
-}
-
-.submit_buttom {
-  margin: 20px;
 }
